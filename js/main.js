@@ -12,9 +12,9 @@ while (i < 1) {
     cognomi.push(nuovoCognome);
 }
 
-console.log(cognomi)
-
+cognomi.sort();
 // Stampa la lista ordinata alfabeticamente
+console.log(cognomi)
 
 
 
