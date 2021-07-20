@@ -15,7 +15,5 @@ while (i < 1) {
 cognomi.sort();
 // Stampa la lista ordinata alfabeticamente
 console.log(cognomi)
-
-
-
 // Scrivi anche la posizione "umana" (partendo da 1) della lista in cui il nuovo utente si trova
+console.log(cognomi.indexOf(nuovoCognome));
